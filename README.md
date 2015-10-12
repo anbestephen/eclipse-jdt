@@ -1,1 +1,1 @@
-# Eclipse_JDT Project
+# Eclipse JDT Project
